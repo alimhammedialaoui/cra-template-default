@@ -1,0 +1,9 @@
+{
+  "name": "cra-template-alilox",
+  "version": "1.0.0",
+  "author": "Ali M'hammedi Alaoui",
+  "description": "Quick custom template",
+  "keywords": ["template"],
+  "main": "template.json",
+  "files": ["template", "template.json"]
+}
